@@ -1,11 +1,15 @@
-<img width="1131" alt="Screenshot 2025-04-20 at 10 13 38 PM" src="https://github.com/user-attachments/assets/f6cb9e41-b0a7-4a7d-a0a8-58d8914d2d6f" />
+[![Download for macOS](https://img.shields.io/badge/Download%20for%20macOS-0.2.0-blue.svg?style=for-the-badge&logo=apple)](https://github.com/kics223w1/GitDesktop/releases/download/v0.2.0/GitDesktop.dmg)
 
-GitDesktop is a native macOS application built with SwiftUI, designed as an alternative to GitHub Desktop.
+<img width="1131" alt="GitDesktop Preview" src="https://github.com/user-attachments/assets/f6cb9e41-b0a7-4a7d-a0a8-58d8914d2d6f" />
 
-**Features:**
+# GitDesktop
 
-- Switch between multiple GitHub accounts seamlessly.
-- Search commit history with advanced filtering options.
-- Perform essential Git operations: commit, push, pull, and checkout branches.
+**GitDesktop** is a native macOS application built with SwiftUI, designed as a lightweight alternative to GitHub Desktop.
+
+## 🚀 Features
+
+- ✅ Switch between multiple GitHub accounts seamlessly  
+- 🔍 Search commit history with advanced filtering options  
+- 🛠️ Perform essential Git operations: commit, push, pull, and checkout branches  
 
 More features are currently under development and will be added in future updates.
