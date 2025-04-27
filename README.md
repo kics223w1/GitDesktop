@@ -1,11 +1,9 @@
-# GitDesktop
-
 [![Download for macOS (Apple Silicon)](https://img.shields.io/badge/Download%20Apple%20Silicon-0.4.0-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/kics223w1/GitDesktop/releases/download/v0.4.0/GitDesktop.dmg)
 
 <p align="center">
   <picture>
-    <source srcset="https://github.com/user-attachments/assets/f6cb9e41-b0a7-4a7d-a0a8-58d8914d2d6f" media="(prefers-color-scheme: dark)" />
-    <img src="https://github.com/user-attachments/assets/f6cb9e41-b0a7-4a7d-a0a8-58d8914d2d6f" alt="GitDesktop Preview" width="900" />
+    <source srcset="https://github.com/user-attachments/assets/d905a242-7cd1-4569-a871-bd5c49264f86" media="(prefers-color-scheme: dark)" />
+    <img src="https://github.com/user-attachments/assets/d905a242-7cd1-4569-a871-bd5c49264f86" alt="GitDesktop Preview" width="900" />
   </picture>
 </p>
 
