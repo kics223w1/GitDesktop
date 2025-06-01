@@ -1,4 +1,4 @@
-[![Download for macOS (Apple Silicon)](https://img.shields.io/badge/Download%20Apple%20Silicon-0.8.0-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/kics223w1/GitDesktop/releases/download/v0.8.0/GitDesktop.dmg)
+[![Download for macOS (Apple Silicon)](https://img.shields.io/badge/Download%20Apple%20Silicon-0.9.0-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/kics223w1/GitDesktop/releases/download/v0.9.0/GitDesktop.dmg)
 
 <p align="center">
   <picture>
